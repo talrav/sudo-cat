@@ -63,7 +63,7 @@ class App(QWidget):
         hbox.addWidget(splitter2)
         self.setLayout(hbox)
         self.setWindowTitle(self.title)
-        self.setWindowIcon(QIcon('grumpy-cat.jpg'))
+        self.setWindowIcon(QIcon('Gcat.jpeg'))
         self.setGeometry(self.left, self.top, self.width, self.height)
         self.setFixedSize(self.width, self.height)
 
