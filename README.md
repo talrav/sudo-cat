@@ -9,7 +9,7 @@
   
   1.  **Player game mode** - Enable playing a random Sudoku game from a database of 10,000 different puzzles.  
   1.  **Recursive solver** - show an example of how to solve the current puzzle using a recursive method.  
-  1.  **CNN solver** - Provide a solution to the current puzzle using a trained CNN algorithm. The network learned from a database of 115,000 different puzzles and solutions.  
+  1.  **CNN solver** - Provide a solution to the current puzzle using a trained CNN algorithm. The network learned from a database of 100,000 different puzzles and solutions.  
   
   Each solved puzzle can be verified by its own solution provided by the database.
   
