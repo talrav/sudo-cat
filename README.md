@@ -24,13 +24,19 @@
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat2" width="30"  title="boring"/>  Player game mode
   
   Player mode is the defualt mode, it means you can write a number in each cell and check if you got it right.
+  If you get it wrong, you get an error messege:
+  
+  <img src="https://github.com/Tal-Raveh/SudoCat/blob/master/example1.png" alt="Gcat_ex" width="500" title="example"/>  
   
   
+
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat3" width="30"  title="did that too... and i'm a cat"/>  Recursive solver
   
   Recursive method to solve any Sudoku puzzle:  
   ![Recursive example](https://upload.wikimedia.org/wikipedia/commons/8/8c/Sudoku_solved_by_bactracking.gif "Recursive example")
-  
+
+The file responsible for this section - "recursive_solver.py"
+
   
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat4" width="30" title="still not impressed"/>  CNN solver
   
@@ -48,7 +54,7 @@
   If you want to train the model all you need to do is:
   1.  Download the whole repository to a folder.
   1.  Change the num_train_data and num_test_data as you wish.
-  1.  Open the file "main_cnn.py" and make sure to uncomment "solver = train(...)", line 91.
-  1.  Uncomment "solver.save(NAME)", line 95 (Not obligatory, do it only if you want to save the model).
-  1.  Comment line number 101, this line loads our model.
+  1.  Open the file "main_cnn.py" and make sure to uncomment "solver = train(...)", **line 91**.
+  1.  Uncomment "solver.save(NAME)", **line 95** (Not obligatory, do it only if you want to save the model).
+  1.  Comment **line 98**, this line loads our model.
   
