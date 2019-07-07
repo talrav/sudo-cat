@@ -44,7 +44,8 @@
     1. Download the whole repository to a folder.
     1. Unzip "sudoku_trained-100000.part1.rar" and "sudoku_trained-100000.part2.rar" to the main folder.
     1. Run "main_cnn.py"
-  
+  1.  **Player game mode** - Enable playing a random Sudoku game from a database of 10,000 different puzzles.  
+  1.  **Recursive solver** - show an example of how to solve the current puzzle using a recursive method.  
   If you want to train the model all you need to do is:
     1.  Download the whole repository to a folder.
     1.  Change the num_train_data and num_test_data as you wish.
