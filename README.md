@@ -36,5 +36,5 @@
   
   We created a model with 2 dense layer's plus a dense layer for each cell in the sudoku (2 + 81 = 83 in total).
   We got 99% correct sudokus over 10,000 testing data:
-  <img src="https://github.com/Tal-Raveh/SudoCat/blob/master/solved_10000.png" alt="Cnn" title="CNN testing percentage"/>
+  <img src="https://github.com/Tal-Raveh/SudoCat/blob/master/solved_10000.png" alt="Cnn1" width="150" title="CNN testing percentage"/>
   
