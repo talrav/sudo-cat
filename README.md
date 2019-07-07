@@ -9,5 +9,7 @@
   1.  **Recursive solver** - Enable an example of how to solve the current puzzle using a recursive method.  
   1.  **CNN solver** - Provide a solution to the current puzzle using a trained CNN algorithm. The network learned from a database of 115,000 different puzzles and solutions.  
   
+  Each solution can be verified by its own solution provided from the database.
+  
   
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" width="30"/>  Banana
