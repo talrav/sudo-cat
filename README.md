@@ -1,3 +1,5 @@
+  
+  
 # SudoCat Project
   
   Grumpy cat has mastered Sudoku in heaven. Now he is back to solve your Sudoku puzzles!  
@@ -24,13 +26,13 @@
   Banana
   
   
-##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat3" width="30"  title="not impressed"/>  Recursive solver
+##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat3" width="30"  title="did that too... and i'm a cat"/>  Recursive solver
   
   Recursive method to solve any Sudoku puzzle:  
   ![Recursive example](https://upload.wikimedia.org/wikipedia/commons/8/8c/Sudoku_solved_by_bactracking.gif "Recursive example")
   
   
-##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat4" width="30" title="did that too... and i'm a cat"/>  CNN solver
+##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat4" width="30" title="still not impressed"/>  CNN solver
   
   Banana
   
