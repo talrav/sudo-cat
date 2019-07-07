@@ -58,3 +58,4 @@ The file responsible for this section - "recursive_solver.py"
   1.  Uncomment "solver.save(NAME)", **line 95** (Not obligatory, do it only if you want to save the model).
   1.  Comment **line 98**, this line loads our model.
   
+  **FYI : All the solved sudokus by the CNN model were saved in a csv file, so when you press solve, you get the solution from the csv file. We made it that way only to speed up the program.
