@@ -35,7 +35,20 @@
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat4" width="30" title="still not impressed"/>  CNN solver
   
   We created a model with 2 dense layer's plus a dense layer for each cell in the sudoku (2 + 81 = 83 in total).
-  We got 99% correct sudokus over 10,000 testing data:
+  We trained the model over 100,000 sudokus and 10 epochs.
+  We got 99% correct sudokus over 10,000 testing data (data = sudokus):
   
   <img src="https://github.com/Tal-Raveh/SudoCat/blob/master/solved_10000.png" alt="Cnn1" width="200" title="CNN testing percentage"/>
+  
+  If you want to load our trained model and test it:
+    1. Download the whole repository to a folder.
+    2. Unzip "sudoku_trained-100000.part1.rar" and "sudoku_trained-100000.part2.rar" to the main folder.
+    3. Run "main_cnn.py"
+  
+  If you want to train the model all you need to do is:
+    1. Download the whole repository to a folder.
+    2. Change the num_train_data and num_test_data as you wish.
+    3. Open the file "main_cnn.py" and make sure to uncomment "solver = train(...)", line 91.
+    4. Uncomment "solver.save(NAME)", line 95 (Not obligatory, do it only if you want to save the model).
+    5. Comment line number 101, this line loads our model.
   
