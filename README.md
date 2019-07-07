@@ -16,7 +16,7 @@
   
   First, download the whole repository to a folder. then locate the file ['gui_sudoku.py'](https://github.com/Tal-Raveh/SudoCat/blob/master/gui_sudoku.py "'gui_sudoku.py'") and run it using any python console.
   
-  That's it, you are ready to play SudoCat. Be sure to check the different options
+  That's it, you are ready to play SudoCat! Be sure to check the different options
   
   
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat2" width="30"/>  Player game mode
@@ -26,7 +26,7 @@
   
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat3" width="30"/>  Recursive solver
   
-  Recursive method to solve any Sudoku puzzle:
+  Recursive method to solve any Sudoku puzzle:  
   ![Recursive example](https://upload.wikimedia.org/wikipedia/commons/8/8c/Sudoku_solved_by_bactracking.gif "Recursive example")
   
   
