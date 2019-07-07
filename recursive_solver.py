@@ -58,16 +58,17 @@ def possible(sudoku_mat , row , col , digit):
                 return 0
     # Return 1 if there are no collisions with the same digit
     return 1
-
+"""
 # Prints the two dimension array on the screen.
-# def print_puzzle(sudoku_mat):
-#     for i in range(9):
-#         for j in range(8):
-#             # Prints each cell of the matrix
-#             print(int(sudoku_mat[i][j]) , end=' ')
-#             if ((j+1)%3 == 0):	# prints a border every 3 columns
-#                 print("|" , end=' ')
-#         # Prints the last number in a row and shifts to the next row
-#         print(int(sudoku_mat[i][8]) , end='\n')
-#         if ((i+1)%3==0 and i < 8):	# prints a border every 3 rows
-#             print("------+-------+------")
+def print_puzzle(sudoku_mat):
+    for i in range(9):
+        for j in range(8):
+            # Prints each cell of the matrix
+            print(int(sudoku_mat[i][j]) , end=' ')
+            if ((j+1)%3 == 0):	# prints a border every 3 columns
+                print("|" , end=' ')
+        # Prints the last number in a row and shifts to the next row
+        print(int(sudoku_mat[i][8]) , end='\n')
+        if ((i+1)%3==0 and i < 8):	# prints a border every 3 rows
+            print("------+-------+------")
+"""
