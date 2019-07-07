@@ -46,9 +46,9 @@
     1. Run "main_cnn.py"
   
   If you want to train the model all you need to do is:
-    1. Download the whole repository to a folder.
-    1. Change the num_train_data and num_test_data as you wish.
-    1. Open the file "main_cnn.py" and make sure to uncomment "solver = train(...)", line 91.
-    1. Uncomment "solver.save(NAME)", line 95 (Not obligatory, do it only if you want to save the model).
-    1. Comment line number 101, this line loads our model.
+    1.  Download the whole repository to a folder.
+    1.  Change the num_train_data and num_test_data as you wish.
+    1.  Open the file "main_cnn.py" and make sure to uncomment "solver = train(...)", line 91.
+    1.  Uncomment "solver.save(NAME)", line 95 (Not obligatory, do it only if you want to save the model).
+    1.  Comment line number 101, this line loads our model.
   
