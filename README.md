@@ -34,5 +34,7 @@
   
 ##   <img src="https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2015/02/6-grumpy-cat.jpg" alt="Gcat4" width="30" title="still not impressed"/>  CNN solver
   
-  Banana
+  We created a model with 2 dense layer's plus a dense layer for each cell in the sudoku (2 + 81 = 83 in total).
+  We got 99% correct sudokus over 10,000 testing data:
+  <img src="https://github.com/Tal-Raveh/SudoCat/blob/master/solved_10000.png" alt="Gcat1" width="30" title="CNN testing percentage"/>
   
