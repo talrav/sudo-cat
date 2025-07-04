@@ -5,7 +5,7 @@
   Grumpy cat has mastered Sudoku in heaven. Now he is back to solve your Sudoku puzzles!  
   
   The following repository include a Sudoku puzzle game. The game interface consist of three main options:  
-  <img src="http://jasperboerstra.nl/____impro/1/onewebmedia/stickertapinorder.gif?etag=W%2F%2216380-58bd8036%22&sourceContentType=image%2Fgif" alt="Gcat_MI" height="200" align="right" title="mehh"/>  
+  <img src="https://i.imgur.com/vuvEqME.gif" alt="Gcat_MI" height="200" align="right" title="mehh"/>  
   
   1.  **Player game mode** - Enable playing a random Sudoku game from a database of 10,000 different puzzles.  
   1.  **Recursive solver** - show an example of how to solve the current puzzle using a recursive method.  
